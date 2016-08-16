@@ -8,3 +8,6 @@
 
 ### August 12, 2016
 - [创建 python 虚拟环境及简单使用 - 贤大侠玩电脑 - SegmentFault](https://segmentfault.com/a/1190000000643087) 
+
+### August 16, 2016
+- [打造高效个性Terminal（二）之 zsh | BlueSun](http://huang-jerryc.com/2016/08/11/%E6%89%93%E9%80%A0%E9%AB%98%E6%95%88%E4%B8%AA%E6%80%A7Terminal%EF%BC%88%E4%BA%8C%EF%BC%89%E4%B9%8B%20zsh/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
