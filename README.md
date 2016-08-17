@@ -16,3 +16,4 @@
 - [Home · geeeeeeeeek/git-recipes Wiki](https://github.com/geeeeeeeeek/git-recipes/wiki) 
 - [Restful API设计思路及实践 - 简书](http://www.jianshu.com/p/265397f812d4) 
 - [浅析时间序列数据 - 简书](http://www.jianshu.com/p/67dffc3b69ee) 
+- [数据结构常见的八大排序算法（详细整理） - 简书](http://www.jianshu.com/p/7d037c332a9d) 
