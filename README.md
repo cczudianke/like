@@ -11,3 +11,6 @@
 
 ### August 16, 2016
 - [打造高效个性Terminal（二）之 zsh | BlueSun](http://huang-jerryc.com/2016/08/11/%E6%89%93%E9%80%A0%E9%AB%98%E6%95%88%E4%B8%AA%E6%80%A7Terminal%EF%BC%88%E4%BA%8C%EF%BC%89%E4%B9%8B%20zsh/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
+
+### August 17, 2016
+- [Home · geeeeeeeeek/git-recipes Wiki](https://github.com/geeeeeeeeek/git-recipes/wiki) 
