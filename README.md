@@ -14,3 +14,4 @@
 
 ### August 17, 2016
 - [Home · geeeeeeeeek/git-recipes Wiki](https://github.com/geeeeeeeeek/git-recipes/wiki) 
+- [Restful API设计思路及实践 - 简书](http://www.jianshu.com/p/265397f812d4) 
