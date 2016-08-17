@@ -18,3 +18,4 @@
 - [浅析时间序列数据 - 简书](http://www.jianshu.com/p/67dffc3b69ee) 
 - [数据结构常见的八大排序算法（详细整理） - 简书](http://www.jianshu.com/p/7d037c332a9d) 
 - [可能已经挖到最深的坑：在Windows Server下配置Git Server脱坑之路 - 简书](http://www.jianshu.com/p/e625000b03ae) 
+- [libevent evhttp学习——http服务端 - 简书](http://www.jianshu.com/p/906c8b9f0629) 
