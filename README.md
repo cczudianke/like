@@ -21,3 +21,6 @@
 - [libevent evhttp学习——http服务端 - 简书](http://www.jianshu.com/p/906c8b9f0629) 
 - [Flippancy - 简书](http://www.jianshu.com/users/38a5a0afc11a/latest_articles) 
 - [杨存村長 - 简书](http://www.jianshu.com/users/455cf192db2f/latest_articles) 
+
+### September 2, 2016
+- [6.3 simhash算法 | 编程之法：面试和算法心得](https://wizardforcel.gitbooks.io/the-art-of-programming-by-july/content/06.03.html) 
